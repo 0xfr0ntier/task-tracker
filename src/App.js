@@ -6,7 +6,7 @@ import About from "./components/About";
 import Tasks from "./components/Tasks";
 import AddTask from "./components/AddTask";
 
-const serverURL = "http://localhost:5000/tasks";
+const serverURL = "BACKEND SERVER ADDRESS GOES HERE";
 
 const App = () => {
     const [showAddTask, setShowAddTask] = useState(false);
