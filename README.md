@@ -2,22 +2,22 @@
 
 Task tracking application built using React.js, and React router.
 
-### Available Scripts
+## Available Scripts
 
 In the project directory, you can run:
 
-##### `npm run server`
+#### `npm run server`
 
 Runs the backend json api server.
 
-##### `npm start`
+#### `npm start`
 
 Runs the app in the development mode.
 
-##### `npm test`
+#### `npm test`
 
 Launches the test runner in the interactive watch mode.
 
-##### `npm run build`
+#### `npm run build`
 
 Builds the app for production to the `build` folder.
