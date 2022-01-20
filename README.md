@@ -1,6 +1,6 @@
 # Task Tracker📝!
 
-Task tracking app, built using (ReactJS)[https://reactjs.org/], and (React Router)[https://reactrouter.com/].
+Task tracking app, built using [ReactJS](https://reactjs.org/), and [React Router](https://reactrouter.com/).
 
 ## Available Scripts
 
